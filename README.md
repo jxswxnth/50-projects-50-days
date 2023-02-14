@@ -3,3 +3,4 @@
 `day-2> Progress Bar` <br/>
 `day-3> Rotating Navigation` <br/>
 `day-4> Hidden Search` <br/>
+`day-5> Blurry Loading` <br/>
