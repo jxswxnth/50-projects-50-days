@@ -6,3 +6,4 @@
 `day-5> Blurry Loading` <br/>
 `day-6> Scrolling Animation` <br/>
 `day-7> Split Landing Page` <br/>
+`day-8> Form Wave Animation` <br/>
